@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oppa-technologies.vercel.app/sitemap.xml
